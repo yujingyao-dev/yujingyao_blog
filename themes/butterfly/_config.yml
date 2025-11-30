@@ -11,7 +11,7 @@
 
 nav:
   # Navigation bar logo image
-  logo:
+  logo: /img/favicon.ico
   display_title: true
   display_post_title: true
   # Whether to fix navigation bar
@@ -19,9 +19,11 @@ nav:
 
 menu:
   Home: / || fas fa-home
-  # List||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
+  Treehole: /shuoshuo/ || fas fa-podcast
+  Tags: /tags/ || fas fa-tags
+  Catagories: /catagories/ || fas fa-theater-masks
+  About Me: /about/ || fas fa-snowman
+
 
 # --------------------------------------
 # Code Blocks Settings
@@ -47,7 +49,8 @@ code_blocks:
 #   icon: link || the description || color
 social:
   fab fa-github: https://github.com/yujingyao-dev || Github || '#24292e'
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
+  fas fa-envelope: mailto:yujingyao3751314@gmail.com || Email || '#F87C63'
+  fab fa-youtube: https://space.bilibili.com/544308446 || Bilibili || '#007FFF'
 
 # --------------------------------------
 # Image Settings
@@ -149,7 +152,7 @@ index_top_img_height:
 
 # The subtitle on homepage
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect
   effect: true
   # Customize typed.js
