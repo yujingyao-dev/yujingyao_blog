@@ -51,6 +51,8 @@ social:
   fab fa-github: https://github.com/yujingyao-dev || Github || '#24292e'
   fas fa-envelope: mailto:yujingyao3751314@gmail.com || Email || '#F87C63'
   fab fa-youtube: https://space.bilibili.com/544308446 || Bilibili || '#007FFF'
+  fa-brands fa-x-twitter: https://x.com/STARlNARY || X || '#000000'
+  fa-brands fa-linkedin: https://www.linkedin.com/in/jingyao-yu-027b77313/ || LinkedIn || '#0072B1'
 
 # --------------------------------------
 # Image Settings
@@ -291,7 +293,7 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me
+      text: Follow Me on Github
       link: https://github.com/yujingyao-dev
   card_announcement:
     enable: true
@@ -304,7 +306,7 @@ aside:
     sort: date
     sort_order:
   card_newest_comments:
-    enable: false
+    enable: true
     sort_order:
     limit: 6
     # Unit: mins, save data to localStorage
@@ -455,7 +457,7 @@ busuanzi:
 math:
   # Choose: mathjax, katex
   # Leave it empty if you don't need math
-  use:
+  use: mathjax
   per_page: true
   hide_scrollbar: false
 
@@ -535,7 +537,7 @@ comments:
   # Leave it empty if you don't need comments
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
   # Format of two comments system : Disqus,Waline
-  use:
+  use: Twikoo
   # Display the comment name next to the button
   text: true
   # Lazyload: The comment system will be load when comment element enters the browser's viewport.
