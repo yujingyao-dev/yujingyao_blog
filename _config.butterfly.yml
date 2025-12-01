@@ -238,3 +238,10 @@ subtitle:
     - 愿此行，终抵群星！
     
 default_top_img: /img/default_pic.webp
+
+photofigcaption: true
+
+index_post_content:
+  method: 2
+  # If you set method to 2 or 3, the length need to config
+  length: 500
