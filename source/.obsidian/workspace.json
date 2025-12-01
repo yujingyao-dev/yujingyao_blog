@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "84984b7de7556a94",
+    "type": "split",
+    "children": [
+      {
+        "id": "82f0887e16be9bea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7163d589a49c04bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/From Raffles Marina to Raffles Marina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "From Raffles Marina to Raffles Marina"
+            }
+          },
+          {
+            "id": "6316e27f2a91ae35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/post_head.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "post_head"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39754d8505f365f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ee346c4f6603e6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aad4717337adb3b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a6d23bad053375c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e3e54c797a8765d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 366.5
+  },
+  "right": {
+    "id": "687674bed9db8cc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a39f5ef33f35402e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0f63f08b07f06cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/_posts/从莱福士码头到莱福士码头.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "从莱福士码头到莱福士码头 的反向链接列表"
+            }
+          },
+          {
+            "id": "671f9c625130bd73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/_posts/从莱福士码头到莱福士码头.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "从莱福士码头到莱福士码头 的出链列表"
+            }
+          },
+          {
+            "id": "11935f87ac3f2f9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "20c4ea01381bafcf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "2bed7568f082bc53",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/从莱福士码头到莱福士码头.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "从莱福士码头到莱福士码头 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7163d589a49c04bc",
+  "lastOpenFiles": [
+    "template/post_head.md",
+    "_posts/From Raffles Marina to Raffles Marina.md",
+    "_posts/hello-world.md",
+    "img.md",
+    "source/img/2025-12-01/IMG_20251201_202237_webp.webp",
+    "source/shuoshuo/index.md",
+    "source/_posts/我与世界作对.md",
+    "source/img/2025-12-01/IMG_20251201_202237_webp.webp alias",
+    "source/img/2025-12-01/IMG_20251201_201411_webp.webp",
+    "source/_posts/从莱福士码头到莱福士码头.md",
+    "source/template/post_head.md",
+    "source/template",
+    "source/_posts/天空吃了孩子.md",
+    "source/_posts/hello-world.md"
+  ]
+}
