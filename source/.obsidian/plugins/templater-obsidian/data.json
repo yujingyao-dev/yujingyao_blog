@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "source/template",
+  "templates_folder": "template",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "source/_posts",
-      "template": "source/template/post_head.md"
+      "folder": "_posts",
+      "template": "template/post_head.md"
     }
   ],
   "enable_file_templates": false,

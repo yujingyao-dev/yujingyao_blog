@@ -4,6 +4,7 @@ date: 2025-12-01 00:28:37
 tags:
   - novel
 cover: /img/novel/sky_ate_the_child_webp.webp
+categories: Dramatic irony
 ---
 # 一
 

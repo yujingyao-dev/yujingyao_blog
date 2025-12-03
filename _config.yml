@@ -102,3 +102,10 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# _config.yml
+mermaid:
+  enable: true
+  version: "9.3.0" # 指定 mermaid 版本，建议使用较新版本
+  options:  # 可选配置，用于自定义样式
+    theme: 'default'
