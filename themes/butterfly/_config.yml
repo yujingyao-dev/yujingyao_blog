@@ -93,12 +93,12 @@ category_img:
 category_per_img:
 
 # The background image of footer
-footer_img: false
+footer_img: /img/footer.webp
 
 # Website Background
 # Can set it to color, image URL or an array containing colors and/or image URLs
 # If an array is provided, a random background will be selected from the array on each load
-background:
+background: 
 
 cover:
   # Disable the cover or not
@@ -289,7 +289,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description:
+    description: 
     button:
       enable: true
       icon: fab fa-github
@@ -297,7 +297,7 @@ aside:
       link: https://github.com/yujingyao-dev
   card_announcement:
     enable: true
-    content: Welcome to my blog. I am Yu Jingyao, currently a pre-college student in Nanyang Technological University, Singapore.  
+    content: 
   card_recent_post:
     enable: true
     # If set 0 will show all
@@ -937,9 +937,9 @@ abcjs:
 # Mermaid
 # https://github.com/mermaid-js/mermaid
 mermaid:
-  enable: false
+  enable: true
   # Write Mermaid diagrams using code blocks
-  code_write: false
+  code_write: true
   # built-in themes: default / forest / dark / neutral
   theme:
     light: default

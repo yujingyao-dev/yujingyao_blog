@@ -4,6 +4,7 @@ date: 2025-08-29 23:17:11
 tags:
   - novel
 cover: /img/novel/biaoben_webp.webp
+categories: Dramatic irony
 ---
 
 林善抵达全球和谐大学（The University of Global Harmony, UGH）的那天，感觉自己像一颗从土里刨出来的、沾着泥的马铃薯，被一双无形的手洗净、抛光，然后摆在了一座用水晶和未来主义合金打造的祭坛上。

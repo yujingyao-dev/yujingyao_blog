@@ -5,6 +5,7 @@ tags:
   - life
   - feelings
 cover: /img/novel/conflict_with_the_world_webp.webp
+categories: Life @ SG
 ---
 
 从7月28日到达新加坡，到11月14日我写下这篇文章，三个半月的时间已悄然流逝。我确实对时间的流逝感知不大。但是，每当想到年初的我此时应正坐在师大自由元晖楼的某间教室里看书、听课、写练习册或是睡觉，总会不由自主的从头品味这段离奇的十八分之一的人生。

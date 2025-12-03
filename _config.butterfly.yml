@@ -62,7 +62,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description:
+    description: A pre-college student @ Nanyang Technological University, Singapore.  
     button:
       enable: true
       icon: fab fa-github
@@ -70,7 +70,7 @@ aside:
       link: https://github.com/yujingyao-dev
   card_announcement:
     enable: true
-    content: Welcome to my blog. I am Yu Jingyao, currently a pre-college student in Nanyang Technological University, Singapore.  
+    content: Welcome to my personal website! Feel free to explore! 
   card_recent_post:
     enable: true
     # If set 0 will show all
@@ -86,7 +86,7 @@ aside:
     storage: 10
     avatar: true
   card_categories:
-    enable: true
+    enable: false
     # If set 0 will show all
     limit: 8
     # Choose: none / true / false
@@ -103,7 +103,7 @@ aside:
     order: 1
     sort_order:
   card_archives:
-    enable: true
+    enable: false
     # Type: monthly / yearly
     type: monthly
     # Eg: YYYY年MM月
@@ -153,34 +153,35 @@ math:
 
 theme_color:
   enable: true
-  # 主色调：一种很正的樱花粉，不刺眼但很清晰
-  main: "#FE96A0"
-  # 分页按钮：稍微深一点的粉，方便点击
-  paginator: "#FE96A0"
-  # 按钮悬停：变成深玫瑰色，有互动感
-  button_hover: "#FF727B"
-  # 选中文字：非常淡的浅粉色，像花瓣一样
-  text_selection: "#FFE4E1"
-  # 正文链接：保持灰蓝色或改成深灰色，为了阅读舒适，不建议全粉
-  link_color: "#F08080"
-  # 元信息：保持灰色即可
-  meta_color: "#858585"
-  # 分割线：浅粉色
-  hr_color: "#FFD1D1"
-  # 代码文字：保留原来的珊瑚红，很配粉色
-  code_foreground: "#F47466"
-  code_background: "rgba(255, 230, 230, .4)" # 微微泛粉的背景
+  # 主色调：经典的徕卡红/暗房红，非常醒目
+  main: "#D32F2F"
+  # 分页按钮
+  paginator: "#D32F2F"
+  # 按钮悬停：变暗，更有质感
+  button_hover: "#B71C1C"
+  # 选中文字：反差极大的白色或浅灰
+  text_selection: "#FFFFFF"
+  # 正文链接：为了不让红色太多导致视觉疲劳，链接可以用银灰色
+  link_color: "#E0E0E0"
+  # 元信息：暗灰色，像相机参数显示
+  meta_color: "#757575"
+  # 分割线
+  hr_color: "#424242"
+  # 代码文字
+  code_foreground: "#F5F5F5"
+  code_background: "rgba(33, 33, 33, 0.9)" # 接近纯黑
   # 目录高亮
-  toc_color: "#FE96A0"
-  # 引用左边的竖线
-  blockquote_padding_color: "#FE96A0"
-  # 引用背景：稍微有点透明度的粉
-  blockquote_background_color: "rgba(254, 150, 160, 0.1)"
+  toc_color: "#D32F2F"
+  # 引用左边竖线
+  blockquote_padding_color: "#D32F2F"
+  # 引用背景：非常淡的黑色
+  blockquote_background_color: "rgba(66, 66, 66, 0.3)"
   # 滚动条
-  scrollbar_color: "#FE96A0"
-  # 手机浏览器顶栏颜色
-  meta_theme_color_light: "#FE96A0"
-  meta_theme_color_dark: "#0d0d0d"
+  scrollbar_color: "#D32F2F"
+
+  meta_theme_color_light: "#F5F5F5"
+  meta_theme_color_dark: "#121212"
+
 
 comments:
   # Up to two comments system, the first will be shown as default
@@ -245,3 +246,29 @@ index_post_content:
   method: 2
   # If you set method to 2 or 3, the length need to config
   length: 500
+
+footer_img: /img/footer.webp
+
+wordcount:
+  enable: true
+  # Display the word count of the article in post meta
+  post_wordcount: true
+  # Display the time to read the article in post meta
+  min2read: true
+  # Display the total word count of the website in aside's webinfo
+  total_wordcount: true
+
+# Busuanzi count for PV / UV in site
+busuanzi:
+  site_uv: true
+  site_pv: true
+  page_pv: true
+
+mermaid:
+  enable: true
+  # Write Mermaid diagrams using code blocks
+  code_write: true
+  # built-in themes: default / forest / dark / neutral
+  theme:
+    light: default
+    dark: dark
