@@ -7,6 +7,7 @@ categories: Learning Notes
 keywords:
 description:
 cover: /img/covers/binary.webp
+comments: true
 ---
 # What is "binary"?
 

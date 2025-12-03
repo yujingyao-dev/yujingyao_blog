@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/ScopeInPython.md",
+                "file": "about/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ScopeInPython"
+              "title": "index"
+            }
+          },
+          {
+            "id": "e7b0205b190a15ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/WhatIsBinary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WhatIsBinary"
             }
           }
         ],
@@ -216,6 +230,11 @@
   },
   "active": "7ecdda83eef68f6d",
   "lastOpenFiles": [
+    "_posts/WhatIsBinary.md",
+    "img/covers/1stSJTU.webp",
+    "template/post_head.md",
+    "about/index.md",
+    "img/my_photo.webp",
     "_posts/ScopeInPython.md",
     "_posts/LifeOfClown.md",
     "img/covers/clown.webp",
@@ -226,20 +245,16 @@
     "img/covers/coffee1.webp",
     "img/covers/chainrule.webp",
     "img/covers/Gemini_Generated_Image_ms6lghms6lghms6l (2).webp",
-    "_posts/WhatIsBinary.md",
     "img/covers/binary.webp",
     "_posts/1stReadSJTUSurvivalManual.md",
     "_posts/FromRafflesMarinatoRafflesMarina.md",
-    "img/covers/1stSJTU.webp",
     "img/1stSJTU.webp",
     "img/covers",
-    "template/post_head.md",
     "未命名.md",
     "_posts/TheSkyAteTheChild.md",
     "_posts/GoAgainstTheWorld.md",
     "_posts/Specimen.md",
     "img/footer.webp",
-    "img/footer.png",
     "img/favicon.ico",
     "_posts/hello-world.md",
     "img/novel",
