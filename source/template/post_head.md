@@ -6,4 +6,5 @@ categories:
 keywords:
 description:
 cover:
+comments: true
 ---
