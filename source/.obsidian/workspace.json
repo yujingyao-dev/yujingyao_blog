@@ -27,58 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/LifeOfClown.md",
+                "file": "_posts/NanhuPark.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LifeOfClown"
-            }
-          },
-          {
-            "id": "7ecdda83eef68f6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/GoddessInMind.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GoddessInMind"
-            }
-          },
-          {
-            "id": "e7b0205b190a15ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/WhatIsBinary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WhatIsBinary"
-            }
-          },
-          {
-            "id": "65978d6d7ba2f29f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/post_head.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "post_head"
+              "title": "NanhuPark"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,48 +200,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ecdda83eef68f6d",
+  "active": "f4dc9a98e7915750",
   "lastOpenFiles": [
-    "img/covers/goddess_in_mind.webp",
-    "_posts/人生中的五位化学老师.md",
+    "img/nanhuPark/2024年4月刚刚解冻.webp",
+    "_posts/NanhuPark.md",
+    "img/nanhuPark/2024年7月南湖的一张很酷的照片.webp",
+    "img/covers/2024年7月南湖的一张很酷的照片.webp",
+    "img/nanhuPark/2025年年初南湖冰面上的奇怪冰块.webp",
+    "img/nanhuPark/2024年年中南湖大桥.webp",
+    "img/nanhuPark/2024年南湖的晚霞.webp",
+    "img/nanhuPark/2024年六月中旬于沙滩眺望对岸.webp",
+    "img/nanhuPark/2024年儿童节赛博朋克.webp",
+    "img/nanhuPark/2024年5月南湖的夕阳.webp",
+    "img/nanhuPark/2024年4月湛蓝的傍晚.webp",
+    "img/nanhuPark",
     "_posts/LifeOfClown.md",
     "template/post_head.md",
     "_posts/WhatIsBinary.md",
+    "_posts/TheSkyAteTheChild.md",
+    "_posts/Specimen.md",
+    "_posts/ScopeInPython.md",
     "_posts/GoddessInMind.md",
-    "_posts/草台班子学生会.md",
-    "img/good_old_days.jpg",
+    "_posts/GoAgainstTheWorld.md",
+    "_posts/FuckYouStudentsUnion.md",
+    "_posts/FromRafflesMarinatoRafflesMarina.md",
+    "_posts/FirstVisitToChunshangCoffee.md",
+    "_posts/ChainRule.md",
+    "_posts/FirstVisitToCherryCoffee.md",
+    "_posts/向着夜晚奔去.md",
+    "_posts/人生中的五位化学老师.md",
     "_posts/临行碎语.md",
     "shuoshuo/index.md",
-    "img/2025-12-06/NGS_waterlily.jpg",
-    "img/2025-12-06/NGS_viewpoint.jpg",
-    "img/2025-12-06/NGS_ticket.jpg",
-    "img/2025-12-06/NGS_musicshow.jpg",
     "img/2025-12-06",
-    "img/12-06-2025/NGS_ticket.jpg",
-    "img/12-06-2025/NGS_waterlily.jpg",
-    "img/12-06-2025/NGS_viewpoint.jpg",
-    "img/12-06-2025/NGS_musicshow.jpg",
     "img/12-06-2025",
     "_posts/小资午餐.md",
     "_posts/菊与刀.md",
-    "_posts/向着夜晚奔去.md",
     "_posts/米哈游的恩情一辈子还不完.md",
     "_posts/电子产品大清点.md",
     "_posts/与AI对骂——见证人工智能智商情商的进步.md",
-    "_posts/漫步散记——我与南湖这两年.md",
     "_posts/博客创业史——折腾、失败、最终被AI带飞的网站搭建历程.md",
     "_posts/细数真兄弟.md",
-    "about/index.md",
-    "img/shuoshuo/east_coast_12052025.webp",
     "img/shuoshuo",
-    "_posts/ScopeInPython.md",
-    "_posts/ChainRule.md",
-    "_posts/FirstVisitToChunshangCoffee.md",
-    "_posts/FirstVisitToCherryCoffee.md",
-    "_posts/1stReadSJTUSurvivalManual.md",
-    "_posts/FromRafflesMarinatoRafflesMarina.md",
     "img/covers",
-    "未命名.md",
     "img/favicon.ico",
     "img/novel",
     "source/img/2025-12-01/IMG_20251201_202237_webp.webp alias",
