@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 684.5,
-    "collapsed": true
+    "width": 684.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +197,7 @@
       "obsidian-moments-timeline:打开朋友圈": false
     }
   },
-  "active": "abbc0a21e11e4e03",
+  "active": "9489f7df1d47f485",
   "lastOpenFiles": [
     "games/2048/audio/skill.mp3",
     "games/2048/audio/move.mp3",
