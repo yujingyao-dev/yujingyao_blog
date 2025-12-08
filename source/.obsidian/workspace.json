@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.50390243530273,
-    "collapsed": true
+    "width": 380.50390243530273
   },
   "right": {
     "id": "687674bed9db8cc0",
@@ -199,6 +198,7 @@
   },
   "active": "9489f7df1d47f485",
   "lastOpenFiles": [
+    "img/shuoshuo/holland_village.webp",
     "games/2048/audio/skill.mp3",
     "games/2048/audio/move.mp3",
     "games/2048/audio/merge.mp3",
@@ -209,7 +209,6 @@
     "games/2048/style.css",
     "games/2048/index.html",
     "games/2048/game.js",
-    "games/2048/audio",
     "img/shuoshuo/test_shuoshuo_obsidian.webp",
     "_posts/NanhuPark.md",
     "img/nanhuPark/2024年4月刚刚解冻.webp",
