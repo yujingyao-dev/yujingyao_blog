@@ -11,6 +11,7 @@ menu:
   Treehole: /shuoshuo/ || fas fa-podcast
   Tags: /tags/ || fas fa-tags
   Catagories: /catagories/ || fas fa-theater-masks
+  Games: /games/2048/ || fa-solid fa-gamepad
   About Me: /about/ || fas fa-snowman
 
 code_blocks:

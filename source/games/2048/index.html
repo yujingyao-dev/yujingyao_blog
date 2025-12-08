@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>2048: CYBER HACKER</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- DLC 开关区域 -->
+    <div class="dlc-control-panel">
+        <!-- 音效按钮 -->
+        <button id="mute-btn" class="cyber-icon-btn" title="Toggle Audio">
+            <span id="mute-icon">🔊</span>
+        </button>
+        
+        <!-- 分隔线 (装饰用) -->
+        <div class="panel-divider"></div>
+
+        <!-- 原有的 DLC 开关 -->
+        <label class="switch-container">
+            <span class="switch-label">CLASSIC</span>
+            <input type="checkbox" id="mode-switch">
+            <span class="slider"></span>
+            <span class="switch-label active-label">ROGUE</span>
+        </label>
+    </div>
+
+    <!-- 顶部 HUD (通用 + 战斗) -->
+    <div class="hud-container">
+        <div class="header-left">
+            <h1>2048</h1>
+            <div class="subtitle" id="game-subtitle">CLASSIC EDITION</div>
+        </div>
+
+        <!-- 经典模式显示分数 -->
+        <div class="stats" id="stats-classic">
+            <div class="score-box">
+                <div class="label">SCORE</div>
+                <div class="val" id="score">0</div>
+            </div>
+            <div class="score-box energy-box">
+                <div class="label">RAM (MP)</div>
+                <div class="val" id="energy">0%</div>
+                <div class="energy-bar-bg"><div class="energy-bar-fill" id="energy-bar"></div></div>
+            </div>
+        </div>
+
+        <!-- 肉鸽模式显示战斗数据 (默认隐藏) -->
+        <div class="stats battle-hud" id="stats-rogue" style="display: none;">
+            <div class="battle-info">
+                <div class="level-indicator">LVL <span id="rogue-level">1</span></div>
+                <div class="enemy-name" id="enemy-name">FIREWALL v1.0</div>
+            </div>
+
+            <div class="monster-stage">
+                <div class="monster-avatar" id="monster-avatar">
+                    <div class="monster-eye"></div>
+                </div>
+            </div>
+
+            <div class="hp-bars">
+                <!-- 敌人血条 -->
+                <div class="hp-box enemy-hp">
+                    <div class="hp-label">TARGET INTEGRITY</div>
+                    <div class="hp-bar-bg"><div class="hp-bar-fill" id="enemy-hp-bar" style="width: 100%"></div></div>
+                    <div class="hp-text" id="enemy-hp-text">100/100</div>
+                </div>
+                <!-- 玩家血条 -->
+                <div class="hp-box player-hp">
+                    <div class="hp-label">SYSTEM INTEGRITY</div>
+                    <div class="hp-bar-bg"><div class="hp-bar-fill" id="player-hp-bar" style="width: 100%"></div></div>
+                    <div class="hp-text" id="player-hp-text">100/100</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="stage">
+        <div class="game-board" id="board">
+            <div class="grid-layer">
+                <!-- 16个格子 -->
+                <div class="grid-cell"></div><div class="grid-cell"></div><div class="grid-cell"></div><div class="grid-cell"></div>
+                <div class="grid-cell"></div><div class="grid-cell"></div><div class="grid-cell"></div><div class="grid-cell"></div>
+                <div class="grid-cell"></div><div class="grid-cell"></div><div class="grid-cell"></div><div class="grid-cell"></div>
+                <div class="grid-cell"></div><div class="grid-cell"></div><div class="grid-cell"></div><div class="grid-cell"></div>
+            </div>
+
+            <div class="tile-container" id="tile-container"></div>
+
+            <div class="overlay" id="overlay">
+                <div class="game-over-text" id="overlay-title">SYSTEM FAILURE</div>
+                <div class="game-over-sub" id="overlay-sub"></div>
+                <button id="retry-btn">Reboot</button>
+            </div>
+            
+            <div class="targeting-layer" id="targeting-layer">SELECT TARGET</div>
+            
+            <!-- 伤害数字浮层容器 -->
+            <div id="damage-layer"></div>
+        </div>
+    </div>
+
+    <!-- 技能栏 (通用) -->
+    <div class="skills-container">
+        <button class="skill-btn" id="btn-undo" disabled>
+            <span class="icon">↺</span>
+            <span class="name">UNDO</span>
+            <span class="cost">20 RAM</span>
+        </button>
+        <button class="skill-btn" id="btn-purge" disabled>
+            <span class="icon">✕</span>
+            <span class="name">PURGE</span>
+            <span class="cost">50 RAM</span>
+        </button>
+    </div>
+
+    <div class="controls-hint" id="controls-hint">Standard Protocol Loaded</div>
+
+    <script src="game.js"></script>
+</body>
+</html>
