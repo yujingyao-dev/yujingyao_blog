@@ -14,6 +14,7 @@ menu:
   Games||fas fa-solid fa-gamepad||hide:
     2048: /games/2048/ || fa-solid fa-cubes
     Pixel Farm: /games/pixel-farm/ || fa-solid fa-wheat-awn
+    Wordle: /games/wordle/ || fa-solid fa-font
   About Me: /about/ || fas fa-snowman
 
 code_blocks:
