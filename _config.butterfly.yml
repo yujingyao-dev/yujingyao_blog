@@ -15,6 +15,7 @@ menu:
     2048: /games/2048/ || fa-solid fa-cubes
     Pixel Farm: /games/pixel-farm/ || fa-solid fa-wheat-awn
     Wordle: /games/wordle/ || fa-solid fa-font
+    Tetris: /games/tetris/ || fa-solid fa-table-cells-large
   About Me: /about/ || fas fa-snowman
 
 code_blocks:
