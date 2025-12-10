@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/PartingRemarks.md",
+                "file": "_posts/OnTheWay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PartingRemarks"
+              "title": "OnTheWay"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.50390243530273
+    "width": 380.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "687674bed9db8cc0",
@@ -199,6 +200,7 @@
   },
   "active": "abbc0a21e11e4e03",
   "lastOpenFiles": [
+    "img/covers/OnTheWay.webp",
     "games/tetris/assets/index-BK8Mz0U5.js",
     "games/tetris/assets/index-CgVxOUjN.css",
     "games/tetris/index.html",
@@ -211,7 +213,6 @@
     "games/tetris/main.js",
     "games/tetris/main.css",
     "games/tetris",
-    "games/dist/src/main.d.ts",
     "games/dist/og_tetris.png",
     "_posts/NanhuPark.md",
     "games/wordle/logo192.png",
@@ -237,7 +238,7 @@
     "_posts/FirstVisitToCherryCoffee.md",
     "_posts/向着夜晚奔去.md",
     "_posts/人生中的五位化学老师.md",
-    "_posts/PartingRemarks.md",
+    "_posts/OnTheWay.md",
     "shuoshuo/index.md",
     "_posts/小资午餐.md",
     "_posts/菊与刀.md",
