@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/WhyDiary.md",
+                "file": "_posts/AnnualMusic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WhyDiary"
+              "title": "AnnualMusic"
             }
           }
         ]
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 684.5
+    "width": 684.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,8 +199,15 @@
   },
   "active": "abbc0a21e11e4e03",
   "lastOpenFiles": [
-    "_posts/FuckYouStudentsUnion.md",
+    "_posts/博客创业史——折腾、失败、最终被AI带飞的网站搭建历程.md",
+    "_posts/AnnualMusic.md",
+    "未命名.md",
+    "_posts/菊与刀.md",
+    "_posts/米哈游的恩情一辈子还不完.md",
+    "_posts/小资午餐.md",
     "_posts/WhyDiary.md",
+    "_posts/临行碎语.md",
+    "_posts/FuckYouStudentsUnion.md",
     "_posts/ReciteText.md",
     "_posts/CampusNewspaperEditor.md",
     "_posts/TooManyTemptations.md",
@@ -211,7 +219,6 @@
     "games/tetris/assets/index-CgVxOUjN.css",
     "games/tetris/index.html",
     "games/tetris/assets",
-    "_posts/临行碎语.md",
     "games/tetris/src/main.d.ts",
     "games/tetris/src",
     "games/tetris/og_tetris.png",
@@ -237,12 +244,6 @@
     "_posts/GoddessInMind.md",
     "_posts/GoAgainstTheWorld.md",
     "_posts/FromRafflesMarinatoRafflesMarina.md",
-    "_posts/FirstVisitToChunshangCoffee.md",
-    "_posts/ChainRule.md",
-    "_posts/FirstVisitToCherryCoffee.md",
-    "_posts/向着夜晚奔去.md",
-    "_posts/人生中的五位化学老师.md",
-    "shuoshuo/index.md",
-    "_posts/小资午餐.md"
+    "_posts/FirstVisitToChunshangCoffee.md"
   ]
 }
