@@ -7,7 +7,7 @@ tags:
 categories: Jingyao's Meditation
 keywords:
 description:
-cover:
+cover: https://image.yujingyao.com/2026/02/a803274a42303ec84a56601c0e1ca982.webp
 comments: true
 published: true
 ---

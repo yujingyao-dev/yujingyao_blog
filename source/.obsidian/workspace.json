@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/EnergyKiller.md",
+                "file": "_posts/GettingUpEarly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EnergyKiller"
+              "title": "GettingUpEarly"
             }
           }
         ]
@@ -199,16 +199,18 @@
   },
   "active": "abbc0a21e11e4e03",
   "lastOpenFiles": [
-    "_posts/1stReadSJTUSurvivalManual.md",
+    "_posts/StupidJXP.md",
+    "_posts/IndifferenceIsTheInevitableOutcome.md",
+    "_posts/GettingUpEarly.md",
+    "_posts/ScopeInPython.md",
+    "_posts/ReciteText.md",
     "_posts/EnergyKiller.md",
+    "_posts/1stReadSJTUSurvivalManual.md",
     "_posts/AnnualMusic2025.md",
     "_posts/NanhuPark.md",
     "_posts/LifeOfClown.md",
     "_posts/OnTheWay.md",
-    "_posts/StupidJXP.md",
-    "_posts/GettingUpEarly.md",
     "未命名 1.md",
-    "_posts/IndifferenceIsTheInevitableOutcome.md",
     "_posts/博客创业史——折腾、失败、最终被AI带飞的网站搭建历程.md",
     "未命名.md",
     "_posts/菊与刀.md",
@@ -217,7 +219,6 @@
     "_posts/WhyDiary.md",
     "_posts/临行碎语.md",
     "_posts/FuckYouStudentsUnion.md",
-    "_posts/ReciteText.md",
     "_posts/CampusNewspaperEditor.md",
     "_posts/TooManyTemptations.md",
     "_posts/StupidStudentUnion.md",
@@ -243,7 +244,6 @@
     "img/nanhuPark/2024年7月南湖的一张很酷的照片.webp",
     "img/covers/2024年7月南湖的一张很酷的照片.webp",
     "template/post_head.md",
-    "_posts/WhatIsBinary.md",
-    "_posts/TheSkyAteTheChild.md"
+    "_posts/WhatIsBinary.md"
   ]
 }

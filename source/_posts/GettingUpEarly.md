@@ -6,7 +6,7 @@ tags:
 categories: Life @ SG
 keywords:
 description:
-cover:
+cover: https://image.yujingyao.com/2026/02/8cc27c39f3474ae2779ff02bc65a9887.webp
 comments: true
 published: true
 ---
