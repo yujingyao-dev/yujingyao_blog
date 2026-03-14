@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/目录.md",
+                "file": "_posts/电子产品大清点.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "目录"
+              "title": "电子产品大清点"
             }
           },
           {
@@ -170,17 +170,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/NanhuPark.md",
+                "file": "_posts/电子产品大清点.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "NanhuPark 的大纲"
+              "title": "电子产品大清点 的大纲"
             }
           },
           {
-            "id": "9489f7df1d47f485",
+            "id": "705c6444546cca82",
             "type": "leaf",
             "state": {
               "type": "moments-view",
@@ -194,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 581.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,11 +210,20 @@
       "obsidian-moments-timeline:打开朋友圈": false
     }
   },
-  "active": "abbc0a21e11e4e03",
+  "active": "705c6444546cca82",
   "lastOpenFiles": [
-    "_posts/向着夜晚奔去.md",
-    "_posts/目录.md",
+    "_posts/EnergyKiller.md",
+    "_posts/电子产品大清点.md",
     "_posts/小资午餐.md",
+    "_posts/向着夜晚奔去.md",
+    "_posts/博客创业史——折腾、失败、最终被AI带飞的网站搭建历程.md",
+    "_posts/人生中的五位化学老师.md",
+    "_posts/与AI对骂——见证人工智能智商情商的进步.md",
+    "_posts/Specimen.md",
+    "_posts/ChainRule.md",
+    "_posts/CampusNewspaperEditor.md",
+    "_posts/FuckYouStudentsUnion.md",
+    "_posts/目录.md",
     "_posts/IntroductionToLinearAlgebra.md",
     "_posts/何为”线性“.md",
     "_posts/线性代数再入门：基于Python的数学笔记.md",
@@ -224,20 +233,11 @@
     "_posts/IndifferenceIsTheInevitableOutcome.md",
     "_posts/ScopeInPython.md",
     "_posts/ReciteText.md",
-    "_posts/EnergyKiller.md",
     "_posts/1stReadSJTUSurvivalManual.md",
     "_posts/AnnualMusic2025.md",
     "_posts/NanhuPark.md",
     "_posts/LifeOfClown.md",
     "_posts/OnTheWay.md",
-    "未命名 1.md",
-    "_posts/博客创业史——折腾、失败、最终被AI带飞的网站搭建历程.md",
-    "未命名.md",
-    "_posts/菊与刀.md",
-    "_posts/米哈游的恩情一辈子还不完.md",
-    "_posts/WhyDiary.md",
-    "_posts/临行碎语.md",
-    "_posts/FuckYouStudentsUnion.md",
     "img/covers/OnTheWay.webp",
     "games/tetris/assets/index-BK8Mz0U5.js",
     "games/tetris/assets/index-CgVxOUjN.css",
