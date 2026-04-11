@@ -7,16 +7,13 @@ nav:
   fixed: true
 
 menu:
-  Home: / || fas fa-home
-  Treehole: /shuoshuo/ || fas fa-podcast
-  Tags: /tags/ || fas fa-tags
-  Catagories: /catagories/ || fas fa-theater-masks
-  Games||fas fa-solid fa-gamepad||hide:
+  首页: / || fas fa-home
+  废话本: /shuoshuo/ || fas fa-podcast
+  分类: /catagories/ || fas fa-theater-masks
+  小游戏||fas fa-solid fa-gamepad||hide:
     2048: /games/2048/ || fa-solid fa-cubes
-    Pixel Farm: /games/pixel-farm/ || fa-solid fa-wheat-awn
-    Wordle: /games/wordle/ || fa-solid fa-font
-    Tetris: /games/tetris/ || fa-solid fa-table-cells-large
-  About Me: /about/ || fas fa-snowman
+    像素农场: /games/pixel-farm/ || fa-solid fa-wheat-awn
+  关于作者: /about/ || fas fa-snowman
 
 code_blocks:
   # Code block theme: darker / pale night / light / ocean / false
@@ -40,13 +37,12 @@ social:
   fab fa-github: https://github.com/yujingyao-dev || Github || '#24292e'
   fas fa-envelope: mailto:yujingyao3751314@gmail.com || Email || '#F87C63'
   fab fa-youtube: https://space.bilibili.com/544308446 || Bilibili || '#007FFF'
-  fa-brands fa-x-twitter: https://x.com/STARlNARY || X || '#000000'
-  fa-brands fa-linkedin: https://www.linkedin.com/in/jingyao-yu-027b77313/ || LinkedIn || '#0072B1'
+  fa-brands fa-x-twitter: https://x.com/YuJingyao2007 || X || '#000000'
 
 favicon: /img/favicon.ico
 
 avatar:
-  img: /img/avatar.jpg
+  img: /img/avatar.png
   effect: false
 
 # --------------------------------------
@@ -67,14 +63,14 @@ aside:
     category: true
   card_author:
     enable: true
-    description: A pre-college student @ Nanyang Technological University, Singapore.  
+    description: 新加坡NTU在读本科生
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me on Github
+      text: 前往我的Github账号
       link: https://github.com/yujingyao-dev
   card_announcement:
-    enable: true
+    enable: false
     content: Welcome to my personal website! Feel free to explore! 
   card_recent_post:
     enable: true
@@ -158,21 +154,12 @@ math:
 
 theme_color:
   enable: true
-  # 主色调：经典的徕卡红/暗房红，非常醒目
   main: "#D32F2F"
-  # 分页按钮
   paginator: "#D32F2F"
-  # 按钮悬停：变暗，更有质感
-  button_hover: "#B71C1C"
-  # 选中文字：反差极大的白色或浅灰
-  text_selection: "#FFFFFF"
-  # 正文链接：为了不让红色太多导致视觉疲劳，链接可以用银灰色
-  link_color: "#E0E0E0"
-  # 元信息：暗灰色，像相机参数显示
+  text_selection: "#D32F2F"
+  link_color: 
   meta_color: "#757575"
-  # 分割线
   hr_color: "#424242"
-  # 代码文字
   code_foreground: "#F5F5F5"
   code_background: "rgba(33, 33, 33, 0.9)" # 接近纯黑
   # 目录高亮
@@ -219,8 +206,6 @@ twikoo:
 # Insert the code to head (before '</head>' tag) and the bottom (before '</body>' tag)
 inject:
   head:
-    # 隐藏 Twikoo 的设置齿轮图标
-    # - <style>.tk-icon.__settings { display: none !important; } </style>
   bottom:
 
 subtitle:

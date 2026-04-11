@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Yu Jingyao's Blog
-subtitle: Ad astra abyssosque.
-description: Coding for a living, living for a dream.
+title: Vector Yu 的个人网站
+subtitle: 搞点没用的东西
+description: Vector Yu 的个人网站
 keywords: Blog, tech, coding, life
-author: Yu Jingyao
-language: en
+author: Vector Yu
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
@@ -106,6 +106,6 @@ deploy:
 # _config.yml
 mermaid:
   enable: true
-  version: "9.3.0" # 指定 mermaid 版本，建议使用较新版本
-  options:  # 可选配置，用于自定义样式
+  version: "9.3.0" 
+  options:  
     theme: 'default'
