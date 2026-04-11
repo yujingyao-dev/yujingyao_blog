@@ -7,6 +7,7 @@ categories: Learning Notes
 keywords:
 description:
 cover: https://substackcdn.com/image/fetch/$s_!RUkf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4794287e-dc92-4fea-a2ec-edf7fd5d62c3_2471x906.png
+published: false
 ---
 In python, scope means the domain that a variable can be used. In total, there are five kinds of scope in python:
 - **local scope**, it means the variable is only defined in a function

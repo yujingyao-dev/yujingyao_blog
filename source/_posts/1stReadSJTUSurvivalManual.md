@@ -7,6 +7,7 @@ categories: Jingyao's Meditation
 keywords:
 description: 即将上大学之际，读到了网上偶然搜到的「上海交通大学生存手册」，有一些思考感悟
 cover: /img/covers/1stSJTU.webp
+published: false
 ---
 
 再有一个月，我就将告别故乡长春，踏上为期至少十一年的海外生活。

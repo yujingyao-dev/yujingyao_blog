@@ -7,6 +7,7 @@ categories: Learning Notes
 keywords:
 description:
 cover: /img/covers/chainrule.webp
+published: false
 ---
 链式法则应用于复合函数求导。如果函数是“一层套着一层”的，就要把函数像剥洋葱一样一层一层的剥开，再分别处理。直觉上，由于**各层函数之间的影响是层层累积**的，因此，所有的变化之间应该用乘法连接，来表示总的变化。这就是链式法则的内容： 
 

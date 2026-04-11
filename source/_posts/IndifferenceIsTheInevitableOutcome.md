@@ -9,7 +9,7 @@ keywords:
 description:
 cover: https://image.yujingyao.com/2026/02/a803274a42303ec84a56601c0e1ca982.webp
 comments: true
-published: true
+published: false
 ---
 我是一个内向的人，甚至有轻度的社交恐惧症。
 

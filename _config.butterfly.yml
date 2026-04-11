@@ -18,7 +18,7 @@ menu:
 code_blocks:
   # Code block theme: darker / pale night / light / ocean / false
   theme: darker
-  macStyle: true
+  macStyle: false
   # Code block height limit (unit: px)
   height_limit: false
   word_wrap: false
@@ -33,11 +33,11 @@ code_blocks:
 # Social media links
 # Formal:
 #   icon: link || the description || color
-social:
-  fab fa-github: https://github.com/yujingyao-dev || Github || '#24292e'
-  fas fa-envelope: mailto:yujingyao3751314@gmail.com || Email || '#F87C63'
-  fab fa-youtube: https://space.bilibili.com/544308446 || Bilibili || '#007FFF'
-  fa-brands fa-x-twitter: https://x.com/YuJingyao2007 || X || '#000000'
+social: 
+  fab fa-github: https://github.com/yujingyao-dev || Github || '#D32F2F'
+  fas fa-envelope: mailto:yujingyao3751314@gmail.com || Email || '#D32F2F'
+  fab fa-youtube: https://space.bilibili.com/544308446 || Bilibili || '#D32F2F'
+  fa-brands fa-x-twitter: https://x.com/YuJingyao2007 || X || '#D32F2F'
 
 favicon: /img/favicon.ico
 
@@ -63,15 +63,15 @@ aside:
     category: true
   card_author:
     enable: true
-    description: 新加坡NTU在读本科生
+    description: INTP | 新加坡留子
     button:
-      enable: true
+      enable: false
       icon: fab fa-github
       text: 前往我的Github账号
       link: https://github.com/yujingyao-dev
   card_announcement:
     enable: false
-    content: Welcome to my personal website! Feel free to explore! 
+    content: 
   card_recent_post:
     enable: true
     # If set 0 will show all
@@ -155,8 +155,8 @@ math:
 theme_color:
   enable: true
   main: "#D32F2F"
-  paginator: "#D32F2F"
-  text_selection: "#D32F2F"
+  paginator: "#5D0E1A"
+  text_selection: "#F44336"
   link_color: 
   meta_color: "#757575"
   hr_color: "#424242"
@@ -169,7 +169,7 @@ theme_color:
   # 引用背景：非常淡的黑色
   blockquote_background_color: "rgba(66, 66, 66, 0.3)"
   # 滚动条
-  scrollbar_color: "#D32F2F"
+  scrollbar_color: "#FFB74D"
 
   meta_theme_color_light: "#F5F5F5"
   meta_theme_color_dark: "#121212"
@@ -228,7 +228,7 @@ subtitle:
     - Ad astra abyssosque.
     - 愿此行，终抵群星！
     
-default_top_img: /img/default_pic.webp
+default_top_img: 'linear-gradient(20deg, #5d0e1a, #d32f2f, #f44336, #ffb74d)'
 
 photofigcaption: true
 
@@ -237,7 +237,7 @@ index_post_content:
   # If you set method to 2 or 3, the length need to config
   length: 500
 
-footer_img: /img/footer.webp
+footer_img: 'linear-gradient(120deg, #5d0e1a, #d32f2f, #f44336, #ffb74d)'
 
 wordcount:
   enable: true

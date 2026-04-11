@@ -7,7 +7,7 @@ tags:
 categories: Life @ SG
 keywords:
 description:
-cover: https://image.yujingyao.com/2026/02/a0e94fd5071cb536b6d5e23113d25445.webp
+cover: https://ichef.bbci.co.uk/ace/ws/624/amz/worldservice/live/assets/images/2015/11/09/151109171204_mao_suit_fashion_3_624x351_getty_nocredit.jpg.webp
 comments: true
 published: true
 ---

@@ -8,6 +8,7 @@ keywords:
 description:
 cover: /img/covers/binary.webp
 comments: true
+published: false
 ---
 # What is "binary"?
 
